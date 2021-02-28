@@ -1,5 +1,5 @@
 # Python_animation
-Petits animations faites en Python
+Petites animations faites en Python
 
 ## 1. Utilisation:
 Les animations sont faites en MVC via tkInter: [base script](https://github.com/Sensaku/Python_animation/blob/main/Base%20script/animation.py)
